@@ -30,4 +30,4 @@ I am a **Master of Computer Applications (MCA)** Graduate at Kristu Jyoti Colleg
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-s-mca)
 
 ### 📈 GitHub Stats(
-![My Stats](https://github-readme-stats.vercel.app/api?username=Programmer2242&show_icons=true&theme=radical&v=1)
+![My Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Programmer2242&show_icons=true&theme=radical)
