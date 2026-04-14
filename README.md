@@ -1,7 +1,7 @@
 # Hi, I'm Abhishek S 👋
 
 ### 🚀 Full-Stack Developer & AI/ML Enthusiast
-I am a final-semester **Master of Computer Applications (MCA)** student at Kristu Jyoti College. I specialize in building scalable web applications using **Python** and **Django**, with a deep interest in implementing **Machine Learning** models to solve real-world problems.
+I am a **Master of Computer Applications (MCA)** Graduate at Kristu Jyoti College. I specialize in building scalable web applications using **Python** and **Django**, with a deep interest in implementing **Machine Learning** models to solve real-world problems.
 
 ---
 
