@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Abhishek S 👋
 
-<!--
-**Programmer2242/Programmer2242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Developer & AI/ML Enthusiast
+I am a final-semester **Master of Computer Applications (MCA)** student at Kristu Jyoti College. I specialize in building scalable web applications using **Python** and **Django**, with a deep interest in implementing **Machine Learning** models to solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Toolbox
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python (Core), JavaScript, SQL, HTML/CSS |
+| **Frameworks** | Django, React |
+| **AI / Machine Learning** | Scikit-learn, SVM, Neural Networks, Emotion Classification |
+| **Databases** | MySQL, SQLite |
+| **Tools & Version Control** | Git, GitHub, VS Code |
+
+---
+
+### 📂 Featured Projects
+
+#### 🤖 [AI-Based Mock Interview Evaluator](INSERT_LINK_HERE)
+*An automated system designed to analyze candidate performance through emotion and confidence classification.*
+* **Logic:** Utilizes Python for feature extraction and classification models to provide real-time feedback.
+* **Tech:** Python, Django, ML Libraries.
+
+---
+
+### 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-s-mca)
+
+### 📈 GitHub Stats
+![Abishek's GitHub stats](
