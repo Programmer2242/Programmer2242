@@ -19,7 +19,7 @@ I am a **Master of Computer Applications (MCA)** Graduate at Kristu Jyoti Colleg
 
 ### 📂 Featured Projects
 
-#### 🤖 [AI-Based Mock Interview Evaluator](INSERT_LINK_HERE)
+#### 🤖 [AI-Based Mock Interview Evaluator](https://github.com/Programmer2242/Mock-interview))
 *An automated system designed to analyze candidate performance through emotion and confidence classification.*
 * **Logic:** Utilizes Python for feature extraction and classification models to provide real-time feedback.
 * **Tech:** Python, Django, ML Libraries.
